@@ -1,1 +1,2 @@
-# Pirate-Ships
+# PRO-C25-SA
+boilerplate code for student activituy
